@@ -1,0 +1,22 @@
+
+.navbar-brand mb-0 h1 {
+  font-weight: bold;
+  color: green;
+}
+  
+.navbar-text {
+  font-size: 1.5rem;
+  color: blue;
+}
+
+.jumbotron {
+  background-color: lightgray;
+  background-image: url("./images/sunset.jpeg");
+}
+
+.display-4,
+.lead {
+  color: whitesmoke;
+}
+
+
